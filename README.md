@@ -119,5 +119,5 @@ your text.)
 ## Stretch Goals
 
 * Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
-* How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
+* How do you turn on line numbering in Vi? Emacs? In command mode in Vi, type the command ":set number". In emacs, it is "M-x line-number-mode". 
 * Explore the Emacs file browser mode. Describe how it works here.
